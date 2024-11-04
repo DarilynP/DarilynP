@@ -1,3 +1,5 @@
+[Internet not working_gif](https://github.com/saadegh1/saadeghs/raw/master/dino.gif)
+
 ## 👋 Hi, I’m Darilyn!
 - Welcome to my GitHub profile! I'm a Software Engineer with a passion for creating efficient, user-friendly applications and beautiful web experiences. I'm excited to share my projects, learn new skills, and collaborate with other developers.
  
