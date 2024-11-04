@@ -1,3 +1,4 @@
+![T-Rex Runner Banner](https://github.com/DarilynP/DarilynP/raw/main/screenshot.gif)
 
 
 ## 👋 Hi, I’m Darilyn!
